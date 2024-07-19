@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/karthiksridhar/Documents/learning c++",
+      "program": "/Users/karthiksridhar/Documents/learning c++/build/Debug/outDebug"
+    }
+  ]
+}
